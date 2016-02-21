@@ -1,0 +1,25 @@
+ // teacher.c
+inherit NPC; 
+void create()
+{
+        int i,amun;
+        string *order = ({"ÕÅ", "Íõ", "Àî", "ÕÔ", "Ëï", "Ğì", "Ö£", "ÖÜ", "Îâ",
+"½¯", "Éò", "Ñî", "Ãç", "Òü", "½ğ", "Îº", "ÌÕ", "Óá", "Áø", "Öì"});
+        string *orderr = ({"°ü°ü", "±¦±¦", "¹Ô¹Ô", "Ğ¡Ğ¡", "çêçê",
+"¼¦¼¦", "Ñ»Ñ»", "¹·¹·"});
+        set_name( order[random(20)] + orderr[random(8)], ({ "kid", "small kid" }) );
+        set("title", "ÎŞÖªĞ¡Í¯");
+        set("gender", "ÄĞĞÔ" );
+        set("age", random(5)+4);
+        set("int", 26);
+        set("long",
+                "ËûºÜĞ¡, ºÜºÃÆÛ·ş.\n");
+        set("chat_chance", 15);
+        set("chat_msg", ({
+                (: random_move :)
+        }) ); 
+        set("attitude", "peaceful");
+        set("combat_exp", random(5));
+        setup();
+        carry_object("/obj/armor/cloth")->wear();
+}   

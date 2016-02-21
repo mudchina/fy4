@@ -1,0 +1,97 @@
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+std/char/missionnpc.c line 215: Undefined variable 'pro_temp'
+std/char/missionnpc.c line 218: Undefined variable 'pro_temp'
+cmds/usr/score.c line 136: parse error
+cmds/usr/score.c line 148: Undefined variable 'current'
+cmds/usr/score.c line 148: Undefined variable 'max'
+cmds/usr/score.c line 148: Illegal LHS
+cmds/usr/score.c line 149: Undefined variable 'percent'
+cmds/usr/score.c line 150: Type of returned value doesn't match function return type ( string vs int )
+cmds/usr/score.c line 136: parse error
+cmds/usr/score.c line 148: Undefined variable 'current'
+cmds/usr/score.c line 148: Undefined variable 'max'
+cmds/usr/score.c line 148: Illegal LHS
+cmds/usr/score.c line 149: Undefined variable 'percent'
+cmds/usr/score.c line 150: Type of returned value doesn't match function return type ( string vs int )
+d/taishan/npc/manager.c line 56: Undefined function timer
+d/taishan/npc/manager.c line 56: Bad right argument to '<' : "unknown "
+d/taishan/npc/manager.c line 86: Bad right argument to '<' : "unknown "
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+daemon/class/shenshui/nine-moon-steps/lianhuanbu.c line 22: Undefined variable 'exert'
+std/char/missionnpc.c line 223: Reserved type name unexpected.
+std/char/missionnpc.c line 223: parse error
+std/char/missionnpc.c line 231: Illegal LHS
+std/char/missionnpc.c line 231: parse error
+std/char/missionnpc.c line 234: Illegal LHS
+std/char/missionnpc.c line 237: Illegal LHS
+d2/shanxi/npc/tianqing.c line 56: parse error
+d2/shanxi/alou2a.c line 52: Undefined variable 'me'
+d2/shanxi/alou2a.c line 52: Undefined variable 'me'
+d2/shanxi/midao.c line 30: parse error
+d2/shanxi/midao.c line 35: Illegal LHS
+d2/shanxi/midao.c line 42: parse error
+d2/shanxi/midao.c line 28: parse error
+d2/shanxi/midao.c line 33: Illegal LHS
+d2/shanxi/midao.c line 40: parse error
+d2/shanxi/midao.c line 30: Undefined variable 'HIR'
+d2/shanxi/midao.c line 30: parse error
+d2/shanxi/midao.c line 33: Illegal LHS
+d2/shanxi/midao.c line 33: parse error
+d2/shanxi/midao.c line 34: Illegal LHS
+d2/shanxi/midao.c line 34: parse error
+d2/shanxi/midao.c line 49: End of file in string
+d2/shanxi/midao.c line 49: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/npc/wang1.c line 9: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/midao.c line 48: End of file in string
+d2/shanxi/midao.c line 48: parse error
+d2/shanxi/lou4i.c line 53: Undefined variable 'HIY'
+d2/shanxi/lou4i.c line 53: parse error
+d2/shanxi/lou4i.c line 73: parse error
+d2/shanxi/lou4i.c line 73: parse error
+questnpc_1/xuekeke.c line 70: Undefined function offensive_target
+questnpc_1/xuekeke.c line 70: Bad assignment ( object vs unknown ).
+questnpc_1/xuekeke.c line 86: Undefined function if_fighting
+d2/shanxi/lou4i.c line 71: Undefined variable 'room'
+questnpc_1/duo.c line 23: Undefined variable 'ob'
+d2/shanxi/npc/killer1.c line 19: Undefined variable 'quanli'
+d/taishan/npc/manager.c line 74: parse error
+d/taishan/npc/manager.c line 82: Warning: Value of conditional expression is unused
+std/char/questnpc.c line 518: Warning: create() inherited from both /adm/daemons/combatd.c and /std/char.c; using the definition in /adm/daemons/combatd.c.
+questnpc_1/dutongxuan.c line 6: parse error
+daemon/skill/xiaohun-new.c line 65: Undefined variable 'swordsuper'
+gift/hongbao4.c line 45: Undefined function save
+gift/hongbao4.c line 45: Invalid types to '-' ( object vs unknown )
+daemon/class/wolf/wolf-curse/yulanggongwu.c line 27: parse error
+daemon/class/wolf/wolf-curse/yulanggongwu.c line 29: Illegal LHS
+daemon/class/wolf/wolf-curse/yulanggongwu.c line 31: parse error
+obj/npc/wolfguard.c line 81: Undefined variable 'F_boss'
